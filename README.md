@@ -1,4 +1,0 @@
-Plactice
-========
-
-My Page
